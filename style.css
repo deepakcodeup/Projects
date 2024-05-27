@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.main1{
+    height: 65vh;
+    width: 100vw;
+    background-color: #FFCD9E;
+    position: relative;
+    
+ }
+ 
+ .main2{
+    height: 35vh;
+    width: 100vw;
+    background-color: #282828;
+   
+ } 
+ 
+
+.container3{
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+
+.image1{
+    height: 65vh;
+    width: 35vw;
+    margin-right: 50px;
+}
+
+.container1{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-top: -380px;
+    padding: 30px;
+}
+
+.container2{
+    display: flex;
+    flex-direction: row;
+    margin:30px; 
+    position: relative;
+    left: 100px;
+}
+
+.container4{
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.main2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+li{
+    margin: 10px;
+    list-style: none;
+    color: #FFFFFF;
+}
+
+.final{
+    margin-right: 150px;
+    margin-top: 40px;
+    position: relative;
+    right: 40px;
+    
+}
+
+.made{
+    position: relative;
+    right: 90px;
+}
+
+.img2{
+    position: relative;
+    right: 6px;
+}
+
+.items1{
+    margin-top: 60px;
+    margin-left: 150px;
+}
+
+.items2{
+    margin-top: 60px;
+}
+
+
+.t1{
+    color: #FFFFFF;
+    font-size: 15px;
+    margin-top: -20px;
+    margin-left: 120px;
+}
+
+.t2{
+    width: 30vw;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    margin-left: 100px;
+}
+
+.t3{
+    width: 30vw;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-left: 100px;
+}
+
+.t4{
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    position: relative;
+    top: 25px;
+    margin-left: 100px;
+}
+
+input{
+    width: 340px;
+    height: 50px;
+    border-color:#000000;
+    border-radius: 10px;
+    border-width: 4px;
+    margin-right:10px ;
+    text-align: center;
+    color: #888888;
+    font-family: 'Inter', sans-serif;
+    font-size: 22px;
+}
+
+button{
+    background-color: #282828;
+    width: 170px;
+    height: 50px;
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+
+
+
